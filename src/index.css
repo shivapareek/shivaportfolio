@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,600;1,600&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+@import "tailwindcss";
+
+@theme {
+  --font-poppins: "Poppins", "sans-serif"; 
+  --font-josefin: "Josefin Sans", "sans-serif"; 
+}
+/* index.css ya App.css me add kar */
+.active {
+  @apply text-orange-400 ;
+}
+@keyframes borderGlow {
+  0%, 100% {
+    box-shadow: 0 0 0px rgba(255, 165, 0, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 12px 2px rgba(255, 165, 0, 0.5);
+  }
+}
+
+.animate-border-glow {
+  animation: borderGlow 2s infinite ease-in-out;
+}
+
