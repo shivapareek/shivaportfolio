@@ -7,6 +7,7 @@ import Education from "./components/Education";
 import Projects from "./components/Project";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import TerminalIntro from "./components/TerminalIntro";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Navbar />
       <Home />
       <About />
+      <TerminalIntro />
       <Skills />
       <Education />
       <Projects />

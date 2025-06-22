@@ -103,7 +103,7 @@ const Contact = () => {
   Website
 </a>
 
-    <p className="text-gray-400 text-xs sm:text-sm">shivapareek.com</p>
+    <p className="text-gray-400 text-xs sm:text-sm">https://shivapareek.github.io/shivaportfolio</p>
   </div>
 </div>
 
@@ -177,7 +177,6 @@ const Contact = () => {
               We’d love to<br />
               <span className="text-orange-400">Hear from you</span>
             </h2>
-            <p className="text-orange-300 text-md mb-10">info@jamesw.in</p>
           </div>
 
           <div>

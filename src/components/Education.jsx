@@ -46,10 +46,12 @@ const Education = () => {
       {/* Section Content */}
       <div className="max-w-6xl mx-auto relative z-10">
         <div data-aos="fade-up" className="text-center mb-14">
-          <h2 className="text-4xl md:text-5xl font-bold text-transparent bg-gradient-to-r from-orange-400 via-orange-500 to-orange-600 bg-clip-text mb-2">
-            Education & Experience
-          </h2>
-          <p className="italic text-gray-300">My learning & working timeline</p>
+          <h2 className="text-4xl md:text-5xl font-bold text-transparent bg-gradient-to-r from-orange-400 via-orange-500 to-orange-600 bg-clip-text mb-2 leading-tight">
+  Education & Experience
+</h2>
+
+          <p className="italic text-gray-300 mb-6">My learning & working timeline</p>
+
         </div>
 
         <div className="grid md:grid-cols-2 gap-16">
@@ -60,7 +62,7 @@ const Education = () => {
               year="2022 - 2026"
               title="B.Tech - Computer Science"
               institution="UEM Jaipur"
-              details="GPA: 8.21"
+              details="GPA: 8.41"
             />
             <TimelineItem
               year="2022"

@@ -77,7 +77,8 @@ const About = () => {
 
 
       {/* Background Blur Elements */}
-      <div className="absolute bottom-0 right-0 w-96 h-96 bg-sky-500 opacity-10 rounded-full blur-3xl z-0" />
+      <div className="absolute top-15 left-10 w-96 h-96 bg-yellow-500 opacity-10 rounded-full blur-3xl z-0" />
+      <div className="absolute bottom-15 right-10 w-96 h-96 bg-sky-500 opacity-10 rounded-full blur-3xl z-0" />
 
       {/* Main Content */}
       <div className="max-w-7xl mx-auto flex flex-wrap min-[1025px]:flex-nowrap items-center min-[1025px]:items-start gap-16 relative z-10">
@@ -105,7 +106,7 @@ const About = () => {
             Meet Shiva Pareek
           </h1>
           <p className="text-base sm:text-lg text-white md:text-[17px] leading-loose tracking-wide font-poppins">
-            Hi, I'm <span className="font-semibold text-orange-400">Shiva Pareek</span>, a 19-year-old tech enthusiast and creative professional. I'm currently pursuing a B.Tech in Computer Science Engineering (4th year). I specialize in web development, UI/UX design, and video editing. I love solving real-world problems and creating visually stunning digital experiences.
+            Hi, I'm <span className="font-semibold text-orange-400">Shiva Pareek</span>, a 19-year-old tech enthusiast and creative professional. I'm currently pursuing a B.Tech in Computer Science Engineering (4th year). I specialize in web development and video editing. I love solving real-world problems and creating visually stunning digital experiences.
           </p>
 
           {/* Social Links */}

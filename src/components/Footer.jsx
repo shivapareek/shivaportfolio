@@ -25,11 +25,10 @@ const Footer = () => {
           <h2 className="text-xl font-semibold mb-4 text-orange-400">Links</h2>
           <ul className="space-y-2">
             <li><a href="#home" className="hover:text-orange-400">Home</a></li>
-            <li><a href="#about-section" className="hover:text-orange-400">About</a></li>
-            <li><a href="#myskills" className="hover:text-orange-400">Skills</a></li>
+            <li><a href="#about" className="hover:text-orange-400">About</a></li>
+            <li><a href="#skills" className="hover:text-orange-400">Skills</a></li>
             <li><a href="#education" className="hover:text-orange-400">Education</a></li>
             <li><a href="#projects" className="hover:text-orange-400">Projects</a></li>
-            <li><a href="#portfolio" className="hover:text-orange-400">Portfolio</a></li>
             <li><a href="#contact" className="hover:text-orange-400">Contact</a></li>
           </ul>
         </div>

@@ -34,8 +34,8 @@ const Projects = () => {
     >
       {/* Top Line + Code Snippet */}
       <div className="absolute top-0 left-0 w-full z-20">
-        <div className="h-[0.5px] w-full bg-gradient-to-r from-transparent via-orange-500 to-transparent blur-sm opacity-70" />
-        <div className="absolute top-[25px] left-6 font-mono text-sm sm:text-base text-orange-400">
+          {/* <div className="h-[1px]  mt-2 w-full bg-gradient-to-r from-transparent via-orange-500 to-transparent opacity-60 " /> */}
+  <div className="absolute top-[25px] left-15 font-mono  sm:text-base text-orange-400 opacity-75">
           <code>
             <span className="text-orange-400">const </span>
             <span className="text-white">projects </span>
@@ -46,12 +46,14 @@ const Projects = () => {
 
       {/* Section Content */}
       <div className="max-w-6xl mx-auto relative z-10">
-        <div data-aos="fade-up" className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold text-transparent bg-gradient-to-r from-orange-400 via-orange-500 to-orange-600 bg-clip-text mb-2">
-            My Projects
-          </h2>
-          <p className="italic text-gray-300">Some highlights of my work</p>
-        </div>
+     <div data-aos="fade-up" className="text-center mb-20 px-4">
+  <h2 className="text-4xl md:text-5xl font-bold leading-[1.4] text-transparent bg-gradient-to-r from-orange-400 via-orange-500 to-orange-600 bg-clip-text mb-4">
+    My Projects
+  </h2>
+  <p className="italic text-gray-300 mb-2 md:mb-6">Some highlights of my work</p>
+</div>
+
+
 
         {/* Project Cards */}
         <div className="grid md:grid-cols-2 gap-10">
