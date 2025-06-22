@@ -1,17 +1,51 @@
-<<<<<<< HEAD
-# React + Vite
+# 💼 Shiva Pareek - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my developer portfolio!  
+This website showcases my skills, projects, and experience in full-stack development, design, and 3D rendering.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [shivapareek.github.io/shivaportfolio](https://shivapareek.github.io/shivaportfolio/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# shivaportfolio
-I updated my portfolio website with react and tailwind css
->>>>>>> 14e099e5f0c7d695b253c436a5664ad068e2ad3a
+- **Frontend**: React.js, TailwindCSS  
+- **Animations**: AOS (Animate on Scroll), Typewriter Effect  
+- **Auth & Backend**: Email.js (Contact Form) 
+
+
+---
+
+## 🛠️ Features
+
+- 🔥 Beautiful, animated **terminal-style intro**
+- 📚 Timeline of **Education & Experience**
+- 💻 Detailed **Project Showcase**
+- 📬 Functional **Contact Form** 
+- 📱 Fully responsive for mobile & desktop
+
+
+---
+
+## 🧠 Projects Included
+
+- [Samrat Dzns - 3D Design eCommerce](https://shivapareek.github.io/samratdzns-ecommerce/)
+- [UEM FaceVision - Face Detection System](https://github.com/ShivaPareek/uem-facevision)
+
+---
+
+## 📬 Contact
+
+If you’d like to connect, collaborate, or hire—feel free to reach out!
+
+📧 Email: `pareekshiva2004@gmail.com`  
+🔗 LinkedIn: [linkedin.com/in/shivapareek](https://linkedin.com/in/shivapareek)
+
+---
+
+## 📌 License
+
+This project is open for learning and inspiration. Feel free to fork it! 🔁
+
+
+
