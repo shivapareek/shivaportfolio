@@ -16,7 +16,7 @@ const Projects = () => {
       description:
         "A 3D renders and graphic design website offering digital assets for YouTube thumbnails, logos, banners, and posters. Special focus on 3D game-related content and resources.",
       image: myProjectImg,
-      link: "https://samratdzns.netlify.app/",
+      link: "https://shivapareek.github.io/samratdzns-ecommerce/",
     },
     {
       title: "UEM FaceVision: Face Detection System",
